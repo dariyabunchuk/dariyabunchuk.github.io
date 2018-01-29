@@ -1,3 +1,65 @@
-h1{
-color: green;
+.navbar-brand  {
+  font-family: 'Amaranth', sans-serif;
+  font-size: 1.6rem;
+}
+.nav-item{
+  font-family: 'Jaldi', sans-serif;
+  font-size: 1.2rem;
+}
+.catch-phrase{
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 4rem;
+  font-weight: 800;
+}
+h1 {
+  margin-bottom: 1.5rem;
+  margin-top: 1.8rem;
+  font-size: 4.5rem;
+}
+.body {
+  background-color: light-blue;
+}
+
+.carousel-item{
+  max-height: 600px;
+  text-align: left;
+  color: darkgray;
+}
+
+.carousel-caption{
+  text-align: left;
+  color: black;
+  font-family: 'Jaldi', sans-serif;
+  font-size: 4rem;
+}
+h4{
+  text-align: right;
+}
+h3{
+  font-family: 'Jaldi', sans-serif;
+  font-size: 1.5rem;
+}
+.SkiHome{
+  font-family: 'Amaranth', sans-serif;
+  font-size: 1.6rem;
+}
+h2{
+  font-family: 'Jaldi', sans-serif;
+  font-size: 1.5rem;
+}
+.display-4{
+  font-family: 'Amaranth', sans-serif;
+  font-size: 4rem;
+}
+h3{
+  font-family: 'Jaldi', sans-serif;
+  font-size: 1.3rem;
+}
+.lead{
+  font-family: 'Jaldi', sans-serif;
+  font-size: 1.6rem;
+}
+.good{
+  color: green;
+  font-weight: 750;
 }
